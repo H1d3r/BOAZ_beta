@@ -1,4 +1,6 @@
 
+> **Note:** This project is no longer actively maintained. It may still receive occasional updates, but no regular development or support is planned. Use at your own discretion.
+
 ![output](https://github.com/user-attachments/assets/a7cb09fc-7ffb-4a0b-83d3-a047b309d761)
 
 # BOAZ Evasion and Antivirus Testing Tool (for educational purpose)
